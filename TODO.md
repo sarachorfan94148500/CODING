@@ -12,15 +12,19 @@
 
 #### [JS HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
 
-##### Go through the examples and read to understand what's happening
-##### Use  the examples below in one project  , I created already for you  in ./javascript/dom
-- DOM Intro
-- DOM Methods
-- DOM Document
-- DOM Elements
-- DOM HTML
-- DOM Forms
-- DOM CSS
+##### Work only on these examples:
+- **DOM Intro** 
+- **DOM Methods**   
+- **DOM Document**
+- **DOM Elements**
+- **DOM HTML**
+- **DOM Forms**
+- **DOM CSS**
+
+
+##### 1. Go through the examples and read to understand what's happening.
+
+##### 2. Use  the examples in one project  , I created it already for you in ./javascript/dom
 
 
 
