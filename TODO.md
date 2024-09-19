@@ -11,7 +11,7 @@
 ## Article W3School
 
 #### [JS HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
-[strio]
+
 ##### Go through the examples and read to understand what's happening
 ##### Use all the examples in one project called DOM , I created already for you  in ./javascript/dom
 - DOM Intro
