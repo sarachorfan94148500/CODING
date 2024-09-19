@@ -5,8 +5,8 @@
 ## Commands
 
 # initialise
-git init : used only once to initialise the repo
-git remote add origin https://github.com/sarachorfan94148500/CODING : link repo
+- git init : used only once to initialise the repo
+- git remote add origin https://github.com/sarachorfan94148500/CODING : link repo
 
 
 # work
@@ -16,5 +16,5 @@ git remote add origin https://github.com/sarachorfan94148500/CODING : link repo
 
 # need help?
 
-git --help 
-git add --help
+- git --help 
+- git add --help
