@@ -1,0 +1,17 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    color: indianred
+}
+
+.odd{
+
+    color: darkgreen;
+}
+.even{color: violet;
+
+ }
+ul.myList{
+    color: blueviolet;
+}

@@ -1,0 +1,38 @@
+/* body{
+    margin: 0;
+}
+
+img{
+    transform: translateX(100%) rotateZ(180deg) scaleX(2);
+
+} */
+
+
+
+
+
+.box{
+    width: 250px;
+    height: 250px;
+    border: 5px solid;
+    font-size: 13em;
+    text-align: center;
+    transform: translateX(100px) rotateZ('45deg') scale(0.5);
+
+}
+#box1{
+
+    background-color: blueviolet;
+    transform: translate(50px, 50px);
+    transform: rotateZ('45') ;
+    transform: scale(2,1);
+    transform: skew(12,14);
+    transform: translateX(100%) rotateZ('45') scale(0.5);
+
+}
+#box2{
+    background-color: burlywood;
+}
+#box3{
+    background-color: crimson;
+}   

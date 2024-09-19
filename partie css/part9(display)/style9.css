@@ -1,0 +1,13 @@
+div{
+    background-color: blueviolet;
+    display: block;
+    width: 100px;
+    height: 100px;
+    
+}
+span{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    display: inline;
+}

@@ -1,0 +1,9 @@
+h1{
+    text-shadow: 3px 4px 5px /*blur*/ rgb(15, 1, 15) , -3px 4px 5px rgb(230, 13, 215);
+}
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue;
+    box-shadow: 3px 4px 5px cornflowerblue;
+}

@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+}
+.box{
+    border: 5px solid cornflowerblue;
+    font-size: large;
+    width: 200px;
+    height: 200px;
+}
+#box1{
+    color: darksalmon;
+    margin: auto;
+    
+}
+#box2{
+    color: rgb(40, 23, 197);
+    margin-left: auto;
+}

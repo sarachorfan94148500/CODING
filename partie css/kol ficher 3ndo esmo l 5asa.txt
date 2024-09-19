@@ -1,0 +1,15 @@
+kol ficher 3ndo esmo l 5asa ✔️
+parties
+  finish this :function showText(event) {
+    alert(docuemnt.getElementById('p1').innerHTML)
+}
+
+
+
+-----------------------------------------------
+frountend= l wejha
+backend= eli wra l site (eli yete5dem bel java)
+
+use generic paragraphes from Ai: Life is a journey filled with experiences, challenges, and growth. Every day presents new opportunities to learn, adapt, and improve. While some days may seem more difficult than others, each one offers a chance to overcome obstacles and emerge stronger. Success is not always about achieving immediate results, but about the persistence and effort we put into our goals. By staying focused, maintaining a positive attitude, and embracing change, we can navigate the complexities of life and move toward a brighter future.
+
+fontawsome: website for incons :https://fontawesome.com/

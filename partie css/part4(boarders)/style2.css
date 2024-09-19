@@ -1,0 +1,21 @@
+h1{
+
+    border-style: solid /* dashed - dotted - double - groove - ridge - inset - outset - none */ ; 
+    border-width: 3px ; 
+    border-color: darkolivegreen;
+    border-radius: 20px;
+
+}
+h2{
+    
+    border: 3px dashed cyan;
+    border-radius: 20px ;
+}
+p{
+
+    border-bottom: 3px solid red;
+    border-top: 3px solid blue;
+    border-left: 3px dotted green;
+    border-right: 3px dotted violet;
+    border-radius: 10px;
+}
