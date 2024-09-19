@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+
+</head>
+<body>
+    <form action="action_page.php" method="get">
+        <div>
+            <label for="fname">First name: </label>
+            <input type="text" id="fname" name="fname" placeholder="enter your name" required>
+            </div>
+        <br>
+        <div>
+            <label for="lname">Last name: </label>
+            <input type="text" id="lname" name="lname" placeholder="enter your last name" required>
+        </div>
+        <br>
+        <div>
+            <label for="pass">Password : </label>
+            <input type="password" id="pass" name="pass" maxlength="12" required>
+        </div>
+        <br>
+        <div>
+            <label for="email">Email : </label>
+            <input type="email" id="email" name="email" placeholder="exmpl@gmail.com">
+        </div>
+        <br>
+        <div>
+            <label for="phone">Phone number:</label>
+            <input type="tel" id="phone" name="phone" placeholder="(99)99999">
+        </div>
+        <br>
+        <div>
+            <label for="bdate">Birthdate</label>
+            <input type="date" id="bdate" name="bdate">
+
+        </div>
+        <br>
+        <div>
+            <label for="quantity">Quantity: </label>
+            <input type="number" id="quantity" name="quantity" min="0" max="1000" value="1">
+        </div>
+        <br>
+        <div>
+            <label for="sexe">gender:</label>
+            <label for="Mr">Mr.</label>
+            <input type="radio" id="Mr" name="sexe" value="Mr">
+            
+            <label for="Mrs">Mrs.</label>
+            <input type="radio" id="Mrs" name="sexe" value="Mrs">
+        
+        </div>
+        <br>
+        <div>
+            <label for="payement">Payement</label>
+            <select id="payement" name="payement">
+                <option vale="visa">visa</option>
+                <option value="pypal">pypal</option>
+                <option value="Edinar">Edinar</option>
+                <option value="Mastercard">mastercard</option>
+
+            </select>
+        </div>
+        <br>
+        <div>
+            <label for="subscribe">subscribe</label>
+            <input type="checkbox" id="subscribe" name="subscribe">
+        </div>
+        <br>
+
+        
+        <div>
+            <input type="reset">
+        </div>
+        <br>
+        <div>
+            <input type="submit">
+        </div>
+    </form>
+    
+</body>
+</html>
